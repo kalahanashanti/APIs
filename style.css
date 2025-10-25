@@ -1,0 +1,4 @@
+#results .card img{object-fit:cover;height:140px;}
+#status.loading::before{content: "⏳ ";}
+#status.error{color:#b02a37;}
+#status.ok{color:#0a3622;}
